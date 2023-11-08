@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://13.127.84.239:9000/omai/repository/npm-host/"
+    "registry": "http://172.31.35.222/omai/repository/npm-host/"
   },
   
   "scripts": {
